@@ -4,12 +4,15 @@
 
 This is Keshav.
 
-- 🏢 Computer Science student at IIIT Dharwad.
-- 👨‍💻 Full Stack Web Developer | Ex-Intern @ MadAlgos.
-- 🔭 Working on Development Projects & DSA.
+- 💻 Software Engineer
+- 🏢 Studied Computer Science @ IIIT Dharwad.
 - ⚡ Check out my Work: </br>
-  🔗 [Desktop Assistant](https://github.com/keshavjha018/Desktop_Assistant) | [RealTime IDE](https://github.com/keshavjha018/RealTime-IDE) | [Network Algo Stimulator](https://github.com/keshavjha018/NetworkAlgoStimulator) | [Everlink](https://github.com/keshavjha018/everlink) | [E-cell IIIT Dharwad's HR Portal](https://github.com/keshavjha018/Ecell-HR-Portal) .
-- 📫 Reach me on: [LinkedIn](https://www.linkedin.com/in/keshavjha018/).
+  - [Claw](https://github.com/keshavjha018/claw) - Repo management tool for Git.
+  - [Aria](https://github.com/keshavjha018/Aria) - AI assistant for PC.
+  - [RealTime IDE](https://github.com/keshavjha018/RealTime-IDE) - Online collaborative IDE.
+  - [Code Chorus](https://github.com/keshavjha018/code_chorus) - VS Code extension.
+
+- 📫 Reach me on: LinkedIn [@keshavjha018](https://www.linkedin.com/in/keshavjha018/).
 
 <!--
 <br>
