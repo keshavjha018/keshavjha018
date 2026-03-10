@@ -7,6 +7,7 @@ This is Keshav.
 - 💻 Software Engineer
 - 🏢 Studied Computer Science @ IIIT Dharwad.
 - ⚡ Check out my Work: </br>
+  - [Locality](https://github.com/keshavjha018/Locality) - AI-Powered RAG Engine running locally (offline) on PC.
   - [Claw](https://github.com/keshavjha018/claw) - Repo management tool for Git.
   - [Aria](https://github.com/keshavjha018/Aria) - AI assistant for PC.
   - [RealTime IDE](https://github.com/keshavjha018/RealTime-IDE) - Online collaborative IDE.
