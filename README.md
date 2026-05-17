@@ -2,18 +2,20 @@
 
 ### Hi there 👋
 
-This is Keshav.
+About Me:
 
-- 💻 Software Engineer
+- 💻 Software Engineer at Thinkseed Systems.
 - 🏢 Studied Computer Science @ IIIT Dharwad.
 - ⚡ Check out my Work: </br>
   - [Locality](https://github.com/keshavjha018/Locality) - AI-Powered RAG Engine running locally (offline) on PC.
   - [Claw](https://github.com/keshavjha018/claw) - Repo management tool for Git.
   - [Aria](https://github.com/keshavjha018/Aria) - AI assistant for PC.
   - [RealTime IDE](https://github.com/keshavjha018/RealTime-IDE) - Online collaborative IDE.
+  - [NetWatch](https://github.com/keshavjha018/NetWatch) - Network Speed & Data Usage Monitoring Software for Windows.
   - [Code Chorus](https://github.com/keshavjha018/code_chorus) - VS Code extension.
 
-- 📫 Reach me on: LinkedIn [@keshavjha018](https://www.linkedin.com/in/keshavjha018/).
+- 📫 LinkedIn [@keshavjha018](https://www.linkedin.com/in/keshavjha018/).
+- 📧 Email keshavjha018@gmail.com
 
 <!--
 <br>
